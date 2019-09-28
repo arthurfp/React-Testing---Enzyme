@@ -1,6 +1,6 @@
-# React, Redux, & Enzmye - Mastering Apps & Tests
+# React - Mastering Test Driven Development
 
-Code used for React - "Mastering Test Driven Development" Course
+Code used for "React - Mastering Test Driven Development" Course
 
 Course: 
 https://www.udemy.com/react-tdd/
